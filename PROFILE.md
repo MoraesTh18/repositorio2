@@ -1,0 +1,3 @@
+Olá, meu nome é Thiago Moraes, sou um futuro programador dedicado a aprender e aplicar as melhores práticas de programação para desenvolver soluções de alta qualidade. Meu objetivo é me tornar um desenvolvedor Full-Stack.
+Estou atualmente cursando Sistemas de informação na Unilasalle-RJ para aprimorar minhas habilidades em programação e aplicar meu conhecimento em projetos práticos.
+Sou uma pessoa proativa, com habilidades interpessoais para trabalhar em equipe e resolver problemas de forma eficiente. Já possuo experiência em gestão e liderança de equipe. Estou animado para fazer parte de uma empresa que valorize o aprendizado constante, a inovação e a colaboração para construir produtos de qualidade.
